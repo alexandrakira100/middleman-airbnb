@@ -2,3 +2,25 @@
 @import "home";
 @import "about";
 @import "team";
+
+
+.card-pic{
+  background-size: cover;
+
+}
+
+.banner-content {
+  background-color: $orange;
+  color: white;
+  height: 100px;
+  padding: 50px;
+}
+
+.home-content{
+  padding: 30px;
+  margin: 50px;
+}
+
+.banner {
+  background-color: white;
+}
